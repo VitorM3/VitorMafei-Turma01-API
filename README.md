@@ -25,5 +25,5 @@ Inside of the project folder run:
 After that you should see a `./output` folder with some `HTML` reports.
 
 ### Docs to Api under tests:
- - [API Company / Mercado](https://api-desafio-qa.onrender.com/docs/)
+ - [API Company](https://api-desafio-qa.onrender.com/docs/)
  
